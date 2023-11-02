@@ -1,2 +1,3 @@
 # Coding-Ninjas-Meal-App-project
-#This is a Meal app
+
+https://mrinalgupta7890.github.io/Coding-Ninjas-Meal-App-project/
